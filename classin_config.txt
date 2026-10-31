@@ -1,0 +1,18 @@
+﻿# ClassIn 自动登录配置
+
+# ClassIn 可执行文件路径（若启动失败，请改为你机器上的真实路径）
+classin_path=C:\Program Files (x86)\ClassIn\ClassIn.exe
+
+# 进程名（一般无需修改）
+proc_name=ClassIn
+
+# 启动后等待登录窗口出现的超时时间（秒）
+wait_timeout=30
+
+# ---- 坐标模式（可选，更稳）----
+# 如果“键盘模式”填不进账号密码，请双击运行「获取坐标.bat」自动填写下面四项。
+# 四项留空时使用键盘模式（假设账号框已自动聚焦）。
+account_x=
+account_y=
+password_x=
+password_y=
